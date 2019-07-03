@@ -1,0 +1,13 @@
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda bad obfuscator.csprojAssemblyReference.cache
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda_bad_obfuscator.Form1.resources
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda_bad_obfuscator.Properties.Resources.resources
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda bad obfuscator.csproj.GenerateResource.cache
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda bad obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\bin\Debug\kinda bad obfuscator.exe.config
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\bin\Debug\kinda bad obfuscator.exe
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\bin\Debug\kinda bad obfuscator.pdb
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\bin\Debug\dnlib.dll
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\bin\Debug\dnlib.xml
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda bad obfuscator.csproj.CopyComplete
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda bad obfuscator.exe
+C:\Users\polym\Documents\repos\kinda bad obfuscator\kinda bad obfuscator\obj\Debug\kinda bad obfuscator.pdb
